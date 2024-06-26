@@ -38,7 +38,7 @@ This repository contains code and demo data for the paper "Wu R, Chen Z, Yu J, L
 
 ### Code
 
-- **cell_tissue_graph.py**: Main code for CTG-PAM. This script is used to perform the diagnosis of SS by CTG-PAM, executing different steps based on the parameter settings: `pre`, `single`, `ctg`, `detect`, and `all`. The `all` parameter executes all steps in sequence, from preprocessing (detection of cells and tissue structures) to the final diagnosis of SS. For example, to perform lymphocyte recognition and SS diagnosis, use the following command:
+- **cell_tissue_graph.py**: Main code for CTG-PAM. This script is used to perform the diagnosis of SS by CTG-PAM, executing different steps based on the parameter settings: `pre` (preprocessing, i.e. detection of cells and tissue structures), `single` (single-cell features and single-tissue features computation), `ctg` (evolution of the cell-cell features and the cell-tissue features), `detect` (lymphocyte recognition and SS diagnosis), and `all` (all steps in sequence). For example, to perform lymphocyte recognition and SS diagnosis, use the following command:
   ```bash
   python cell_tissue_graph.py detect
   ```
