@@ -59,7 +59,7 @@ This repository contains code and demo data for the paper "Wu R, Chen Z, Yu J, L
 
 The repository contains two data folders: `dataset` and `train_dataset_demo`.
 
-In the `dataset` folder, we provide several pathological image samples for testing the open-source code. One sample, `sample_with_cd45`, includes IHC results for comparison, while other samples provide partial cell type annotations for performance evaluation. 
+In the `dataset` folder, we provide several pathological image samples for testing the open-source code. Samples named with `sample_with_cd45`, includes IHC results for comparison, while other samples provide partial cell type annotations for performance evaluation. 
 
 - `img.png` is the pathological slice image.
 - `gla_mask.png` and `lym_mask.png` are partial annotations for gland cells and lymphocytes, respectively.
