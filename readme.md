@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains code and demo data for the paper "Wu R, Chen Z, Yu J, Lai P, Chen X, Han A, et al. A graph-learning based model for automatic diagnosis of Sjögren's syndrome on digital pathological images: A multicentre cohort study. 2024. UNDER REVIEW".
+This repository contains code and demo data for the paper "Wu, R., Chen, Z., Yu, J. et al. A graph-learning based model for automatic diagnosis of Sjögren’s syndrome on digital pathological images: a multicentre cohort study. J Transl Med 22, 748 (2024). https://doi.org/10.1186/s12967-024-05550-8".
 
 ## Directory Structure
 
